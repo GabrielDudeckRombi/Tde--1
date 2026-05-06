@@ -210,3 +210,5 @@ for j in range(n):
 
 for linha in rotacionada:
     print(linha)
+
+    #ex_matriz
