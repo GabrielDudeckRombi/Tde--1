@@ -171,3 +171,5 @@ else:
 #            print("Resposta Inválida")
  
 # # Codigo feito 100% pela inteligenia artifical! 
+
+# exercicio adicional heitor
