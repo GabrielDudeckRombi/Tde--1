@@ -299,3 +299,5 @@
 #         print(f"{chave}: {valor}")
 
 # processar_dados(10, 20 ,30, nome="Gabriel", idade=17, cidade="Curitiba")
+
+#Ex funcao
