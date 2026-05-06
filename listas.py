@@ -1,4 +1,4 @@
-import numpy as np
+# import numpy as np
 
 # 1. Crie uma lista com os números de 1 a 5 e imprima-a na tela.
 
@@ -203,3 +203,5 @@ resultado = permutacao(lista)
 
 for p in resultado:
     print(p)
+
+# Ex lista.py
