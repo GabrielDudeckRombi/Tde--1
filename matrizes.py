@@ -219,3 +219,4 @@ print("\n Matriz apos correcao dos erros:")
 print(dados)
 
 #
+#new commit
